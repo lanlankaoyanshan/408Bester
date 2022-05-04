@@ -30,7 +30,12 @@
 
 ### 23王道视频更新
 
-由于方便大家学习王道视频，我买了一些，大家可以可以自行去群组查看，当然也有相应的交流群，加我的时候记得备注“蓝蓝”，至于交流群，仁者见仁智者见智，有些同学觉得吐吐槽或讨论讨论问题挺好，而有些同学会觉得太吵太闹，都没事的。当然了，如果想加我好友也欢迎的呀，我的wx(lanlankaoyanshan)。
+由于方便大家学习王道视频，我买了放在了百度网盘，会更新到大家上岸。大家可以可以自行去群组查看，当然也有相应的交流群，加我wx的时候记得备注“蓝蓝”，至于交流群，仁者见仁智者见智，有些同学觉得吐吐槽或讨论讨论问题挺好，而有些同学会觉得太吵太闹，都没事的。当然了，如果想加我好友也欢迎的呀，我的wx(lanlankaoyanshan)。
+
+<div align="center">
+    <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/408%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg?raw=true" width="300px">
+</div>
+
 
 ## 往年王道22年视频
 
@@ -41,21 +46,21 @@
 这里是王道考研的四本PDF，需要的也可以去自行领取。当然了，这是要陪伴我们一年的书籍，也是以后美好的回忆，支持正版岂不是更好，如果是疫情没法收快递的同学，那就只好PDF了哦。
 
 
-[王道22年思维导图](https://github.com/lanlankaoyanshan/408Bester/tree/master/22%E7%8E%8B%E9%81%93%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/408%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+[23王道考研四本PDF](https://github.com/lanlankaoyanshan/408Bester/tree/master/23%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94PDF%E7%89%88)
 
 
 ### 王道22年思维导图
 
 王道的22年思维导图通常还有几个月才会出，所以大家也可以去看看22思维导图，了解下整体概貌，对于自己的学习些许有点启发作用啦。
 
-
+[王道22年思维导图](https://github.com/lanlankaoyanshan/408Bester/tree/master/22%E7%8E%8B%E9%81%93%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/408%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 
 ### 408 计算机考研书籍合集
 
 下面有对应408书籍的详细说明，部分书籍主要针对非科班和高分的同学。
 
 <div align="center">
-    <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/img/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%E3%80%91408%E4%B9%A6%E7%B1%8D%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png?raw=true" width="600px">
+    <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/img/%5B%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%5D%E8%AE%A1%E7%AE%97%E6%9C%BA408%E8%80%83%E7%A0%94%E4%B9%A6%E7%B1%8D%E6%B1%87%E6%80%BB.png?raw=true" width="600px">
 </div>
 
 

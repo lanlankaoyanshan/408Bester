@@ -57,7 +57,7 @@
 
 ### 408 计算机考研书籍合集
 
-下面有对应408书籍的详细说明，部分书籍主要针对非科班和高分的同学。
+下面有对应408书籍的详细说明，部分书籍主要针对非科班和高分的同学。PDF也整理好了，大家去下面加我wx即可。
 
 <div align="center">
     <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/img/%5B%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%5D%E8%AE%A1%E7%AE%97%E6%9C%BA408%E8%80%83%E7%A0%94%E4%B9%A6%E7%B1%8D%E6%B1%87%E6%80%BB.png?raw=true" width="600px">
@@ -80,6 +80,7 @@
 
 ### 考研全年PDF无水印版
 
+这个PDF是我最近才买的，数学政治英语等无水印的PDF都有，大家去下面加我wx即可。
 
 
 <div align="center">

@@ -16,6 +16,7 @@
   - [关于择校](#关于择校)
   - [TIPs](#tips)
 - [关于复试](#关于复试)
+- [联系我](#联系我)
 
 
 随着内容的增加，有些同学经常问的问题，蓝蓝之前在视频中也有所讲过，再加上资源越来越多，干脆就放在这里并加上导航，方便大家去查看，后序我制作的笔试相关内容也会放在这个仓库了。争取将这里打造为最为完善的408家园，谢谢大家的支持，**记住：点 右上脚的Star一定上岸，哼！！**
@@ -39,36 +40,50 @@
 这里是王道考研的四本PDF，需要的也可以去自行领取。当然了，这是要陪伴我们一年的书籍，也是以后美好的回忆，支持正版岂不是更好，如果是疫情没法收快递的同学，那就只好PDF了哦。
 
 
+[王道22年思维导图](https://github.com/lanlankaoyanshan/408Bester/tree/master/22%E7%8E%8B%E9%81%93%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/408%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+
 
 ### 王道22年思维导图
 
 王道的22年思维导图通常还有几个月才会出，所以大家也可以去看看22思维导图，了解下整体概貌，对于自己的学习些许有点启发作用啦。
 
+
+
 ### 408 计算机考研书籍合集
 
 下面有对应408书籍的详细说明，部分书籍主要针对非科班和高分的同学。
 
+<div align="center">
+    <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/img/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%E3%80%91408%E4%B9%A6%E7%B1%8D%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png?raw=true" width="600px">
+</div>
 
 
 ## 408视频教程推荐
 
 下面有对应视频的详细说明，部分视频主要针对非科班和高分的同学。
 
-
+<div align="center">
+    <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/img/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%E3%80%91408%E5%A4%8D%E4%B9%A0%E8%A7%86%E9%A2%91%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png?raw=true" width="600px">
+</div>
 
 ### 408历年真题无水印清晰版
 
 这里感谢几位同学的分享，之前忘记记录是哪位朋友圈的童鞋分享的，大家可以去看看吧，算是非常的清晰了。
 
-
+[408历年真题无水印清晰版](https://github.com/lanlankaoyanshan/408Bester/tree/master/408%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%97%A0%E6%B0%B4%E5%8D%B0%E7%89%88/%5B%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%5D%E8%AE%A1%E7%AE%97%E6%9C%BA408%E7%9C%9F%E9%A2%98%2B%E8%A7%A3%E6%9E%90/%5B%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%5D2009-2021%E8%AE%A1%E7%AE%97%E6%9C%BA408%E7%BB%9F%E8%80%83%E7%9C%9F%E9%A2%98)
 
 ### 考研全年PDF无水印版
 
 
 
+<div align="center">
+    <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/img/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%E8%93%9D%E8%93%9D%E8%80%83%E7%A0%94%E3%80%91%E6%97%A0%E6%B0%B4%E5%8D%B0PDF.png?raw=true" width="400px">
+</div>
+
+
 ## 视频合集
 
-为了方便大家查看，在这里也放上所有视频的分类合集。
+为了方便大家查看，在这里也放上所有B站视频的分类合集。
 
 ### 前言必看
 
@@ -142,3 +157,23 @@
 - [[23计算机考研]考研的同学千万不要熬夜，否则~~~](https://www.bilibili.com/video/BV1E94y1d7t3?spm_id_from=333.999.0.0)
 
 ## 关于复试
+
+## 联系我
+
+
+
+**## :memo: 后记**
+
+**### 排版**
+
+为了保证可读性，小蓝花费大量的时间将图片同时放入本仓库并使用html的方式居中 `<div align="center"> <img src=""/> </div>`显示，从而尽全力的提升内容的可读性。嘿嘿，是不是该star一下了。
+
+文中采用的排版，参考了 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+
+**### License**
+
+此仓库内容由小蓝整理，不是网上东拼西凑而来。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式
+
+共享，谢谢。
+
+转载文章请在开头明显处标明该页面地址，公众号等其它转载请联系小蓝的微信

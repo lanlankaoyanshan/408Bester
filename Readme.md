@@ -171,12 +171,12 @@
 | ---------------------------------------- | ------------------------------------------------------------ |
 | [公众号蓝蓝考研]安徽大学考研资料         |                                                              |
 | [公众号蓝蓝考研]北京大学考研资料         |                                                              |
-| [公众号蓝蓝考研]北京工业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]北京化工大学考研资料     |                                                              |
+| [公众号蓝蓝考研]北京工业大学考研资料     | [北京工业大学考研资料](https://pan.baidu.com/s/1HoMWvZcCF3VTZ95hbU_nuA) |
+| [公众号蓝蓝考研]北京化工大学考研资料     | [北京化工大学](https://pan.baidu.com/s/1T2Mdq655BVBYAOs56No_6Q) |
 | [公众号蓝蓝考研]北京交通大学考研资料     |                                                              |
 | [公众号蓝蓝考研]北京科技大学考研资料     |                                                              |
-| [公众号蓝蓝考研]北京理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]北京林业大学考研资料     |                                                              |
+| [公众号蓝蓝考研]北京理工大学考研资料     | [北京理工大学](https://pan.baidu.com/s/15iYcfHC6h2rTvVt0YU33Ug) |
+| [公众号蓝蓝考研]北京林业大学考研资料     | [北京林业大学考研资料](https://pan.baidu.com/s/1YGyj09yJDmg_CgBezw3gLA) |
 | [公众号蓝蓝考研]北京师范大学考研资料     |                                                              |
 | [公众号蓝蓝考研]北京邮电大学考研资料     |                                                              |
 | [公众号蓝蓝考研]大连海事大学考研资料     |                                                              |
@@ -257,12 +257,12 @@
 | [公众号蓝蓝考研]中国科学技术大学考研资料 |                                                              |
 | [公众号蓝蓝考研]中国科学院大学考研资料   |                                                              |
 | [公众号蓝蓝考研]中国农业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]中国人民大学考研资料     |                                                              |
-| [公众号蓝蓝考研]中国石油大学考研资料     |                                                              |
-| [公众号蓝蓝考研]中南财经政法大学考研资料 | []()                                                         |
+| [公众号蓝蓝考研]中国人民大学考研资料     | [中国人民大学考研资料](https://pan.baidu.com/s/1Vlacpotib9_hWS0ida2YsQ ) |
+| [公众号蓝蓝考研]中国石油大学考研资料     | [中国石油大学考研资料](https://pan.baidu.com/s/17y0syUtVbhdVVzMamgtNzg) |
+| [公众号蓝蓝考研]中南财经政法大学考研资料 | [中南财经政法大学考研资料](https://pan.baidu.com/s/1T8Hpjcxq0tbfNh74xPqcrQ) |
 | [公众号蓝蓝考研]中南大学考研资料         | [中南大学考研](https://pan.baidu.com/s/1f583PhY0j-V3gri6RdKCkw?pwd=lanl ) |
 | [公众号蓝蓝考研]中山大学考研资料         | [中山大学](https://pan.baidu.com/s/1tcxsi9IP2Em8HOwlBFQOCg?pwd=lanl) |
-| [公众号蓝蓝考研]中央民族大学考研资料     |                                                              |
+| [公众号蓝蓝考研]中央民族大学考研资料     | [中央民族大学考研资料](https://pan.baidu.com/s/1w58V7lxoDSMRd-jILcGiAA) |
 | [公众号蓝蓝考研]重庆大学考研资料         | [重庆大学考研资料](https://pan.baidu.com/s/1iKp_wqcXxdv_c6YJZU7PFA?pwd=lanl) |
 | [公众号蓝蓝考研]重庆邮电大学考研资料     | [重庆邮电大学考研资料](https://pan.baidu.com/s/1O6fBCConfx3gnYvxcaF7bA?pwd=lanl) |
 
@@ -279,8 +279,6 @@
 <div align="center">
     <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/408%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg?raw=true" width="300px">
 </div>
-
-
 
 
 

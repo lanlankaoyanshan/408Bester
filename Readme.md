@@ -165,98 +165,96 @@
 
 ## 自命题真题
 
-这里大家尤其要注意一下，由于部分院校现在已经变化为考察408，所以这部分院校得真题将没有参考价值哈。另外，如果这个目录没有得，也希望大家可以私信我补充。累了，明天晚上继续~~~麻烦大家理解，下面学校都有~~
+这里大家尤其要注意一下，由于部分院校现在已经变化为考察408，所以这部分院校得真题将没有参考价值哈。另外，如果这个目录没有得，也希望大家可以私信我补充，所有百度云链接的密码都是"**lanl**"，如果有不对或不恰当之处麻烦联系我。
 
 | 学校名称                                 | 真题链接                                                     |
 | ---------------------------------------- | ------------------------------------------------------------ |
-| [公众号蓝蓝考研]安徽大学考研资料         |                                                              |
-| [公众号蓝蓝考研]北京大学考研资料         |                                                              |
-| [公众号蓝蓝考研]北京工业大学考研资料     | [北京工业大学考研资料](https://pan.baidu.com/s/1HoMWvZcCF3VTZ95hbU_nuA) |
+| [公众号蓝蓝考研]安徽大学考研资料         | [安徽大学](https://pan.baidu.com/s/1_SGLj53pnNFxR__O2IrKUA)  |
+| [公众号蓝蓝考研]北京大学考研资料         | [北京大学](https://pan.baidu.com/s/1cXzqBVrIpR3bQUzSGt--Cw)  |
+| [公众号蓝蓝考研]北京工业大学考研资料     | [北京工业大学](https://pan.baidu.com/s/1amJijpy8fZeGqmyxEAzUUg) |
 | [公众号蓝蓝考研]北京化工大学考研资料     | [北京化工大学](https://pan.baidu.com/s/1T2Mdq655BVBYAOs56No_6Q) |
-| [公众号蓝蓝考研]北京交通大学考研资料     |                                                              |
-| [公众号蓝蓝考研]北京科技大学考研资料     |                                                              |
+| [公众号蓝蓝考研]北京交通大学考研资料     | [北京交通大学](https://pan.baidu.com/s/1n5SL5E3KToGeBGGPeKIx3Q) |
+| [公众号蓝蓝考研]北京科技大学考研资料     | [北京科技大学](https://pan.baidu.com/s/15rMh2FgaSX7C5eeRYdEU8A) |
 | [公众号蓝蓝考研]北京理工大学考研资料     | [北京理工大学](https://pan.baidu.com/s/15iYcfHC6h2rTvVt0YU33Ug) |
 | [公众号蓝蓝考研]北京林业大学考研资料     | [北京林业大学考研资料](https://pan.baidu.com/s/1YGyj09yJDmg_CgBezw3gLA) |
-| [公众号蓝蓝考研]北京师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]北京邮电大学考研资料     |                                                              |
-| [公众号蓝蓝考研]大连海事大学考研资料     |                                                              |
-| [公众号蓝蓝考研]大连理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]电子科技大学考研资料     |                                                              |
-| [公众号蓝蓝考研]东北大学考研资料         |                                                              |
-| [公众号蓝蓝考研]东北林业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]东北农业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]东北师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]东华大学考研资料         |                                                              |
-| [公众号蓝蓝考研]东南大学考研资料         |                                                              |
-| [公众号蓝蓝考研]福州大学考研资料         |                                                              |
-| [公众号蓝蓝考研]复旦大学考研资料         |                                                              |
-| [公众号蓝蓝考研]广东工业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]广西大学考研资料         |                                                              |
-| [公众号蓝蓝考研]贵州大学考研资料         |                                                              |
-| [公众号蓝蓝考研]哈尔滨工程大学考研资料   |                                                              |
-| [公众号蓝蓝考研]哈尔滨工业大学考研资料   |                                                              |
-| [公众号蓝蓝考研]海南大学考研资料         |                                                              |
-| [公众号蓝蓝考研]杭州电子科技大学考研资料 |                                                              |
-| [公众号蓝蓝考研]合肥工业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]河北工业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]河海大学考研资料         |                                                              |
-| [公众号蓝蓝考研]湖南大学考研资料         |                                                              |
-| [公众号蓝蓝考研]华北电力大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华东理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华东师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华南理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华南师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华中科技大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华中农业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]华中师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]吉林大学考研资料         |                                                              |
-| [公众号蓝蓝考研]暨南大学考研资料         |                                                              |
-| [公众号蓝蓝考研]江南大学考研资料         |                                                              |
-| [公众号蓝蓝考研]兰州大学考研资料         |                                                              |
-| [公众号蓝蓝考研]辽宁大学考研资料         |                                                              |
-| [公众号蓝蓝考研]南京大学考研资料         |                                                              |
-| [公众号蓝蓝考研]南京航空航天大学考研资料 |                                                              |
-| [公众号蓝蓝考研]南京理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]南京理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]南京师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]南京邮电大学考研资料     |                                                              |
-| [公众号蓝蓝考研]南开大学考研资料         |                                                              |
-| [公众号蓝蓝考研]南开大学考研资料         |                                                              |
-| [公众号蓝蓝考研]内蒙古大学考研资料       |                                                              |
-| [公众号蓝蓝考研]宁夏大学考研资料         |                                                              |
-| [公众号蓝蓝考研]清华大学考研资料         |                                                              |
-| [公众号蓝蓝考研]厦门大学考研资料         |                                                              |
-| [公众号蓝蓝考研]山东大学考研资料         |                                                              |
-| [公众号蓝蓝考研]陕西师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]上海财经大学考研资料     |                                                              |
-| [公众号蓝蓝考研]上海大学考研资料         |                                                              |
-| [公众号蓝蓝考研]上海科技大学考研资料     |                                                              |
-| [公众号蓝蓝考研]上海师范大学考研资料     |                                                              |
-| [公众号蓝蓝考研]深圳大学考研资料         |                                                              |
-| [公众号蓝蓝考研]石河子大学考研资料       |                                                              |
-| [公众号蓝蓝考研]四川大学考研资料         |                                                              |
-| [公众号蓝蓝考研]太原理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]天津大学考研资料         |                                                              |
-| [公众号蓝蓝考研]武汉大学考研资料         |                                                              |
-| [公众号蓝蓝考研]武汉科技大学考研资料     |                                                              |
-| [公众号蓝蓝考研]武汉理工大学考研资料     |                                                              |
-| [公众号蓝蓝考研]西安电子科技大学考研资料 |                                                              |
-| [公众号蓝蓝考研]西安交通大学考研资料     |                                                              |
-| [公众号蓝蓝考研]西北工业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]西南财经大学考研资料     |                                                              |
-| [公众号蓝蓝考研]西南交通大学考研资料     |                                                              |
-| [公众号蓝蓝考研]延边大学考研资料         |                                                              |
-| [公众号蓝蓝考研]云南大学考研资料111      |                                                              |
-| [公众号蓝蓝考研]长安大学考研资料         |                                                              |
-| [公众号蓝蓝考研]浙江大学考研资料         |                                                              |
-| [公众号蓝蓝考研]浙江工业大学考研资料     |                                                              |
-| [公众号蓝蓝考研]郑州大学考研资料         |                                                              |
-| [公众号蓝蓝考研]中国传媒大学考研资料     |                                                              |
-| [公众号蓝蓝考研]中国地质大学考研资料     |                                                              |
-| [公众号蓝蓝考研]中国海洋大学考研资料     |                                                              |
-| [公众号蓝蓝考研]中国科学技术大学考研资料 |                                                              |
-| [公众号蓝蓝考研]中国科学院大学考研资料   |                                                              |
-| [公众号蓝蓝考研]中国农业大学考研资料     |                                                              |
+| [公众号蓝蓝考研]北京师范大学考研资料     | [北京师范大学](https://pan.baidu.com/s/12CawOnOwrrO8nlmo0Q-mMQ ) |
+| [公众号蓝蓝考研]北京邮电大学考研资料     | [北京邮电大学](https://pan.baidu.com/s/1ldDP_vmety_n5Qkum02JZg) |
+| [公众号蓝蓝考研]大连海事大学考研资料     | [大连海事大学](https://pan.baidu.com/s/1mSXDNTREn1-B1OPso2ygTg) |
+| [公众号蓝蓝考研]大连理工大学考研资料     | [大连理工大学](https://pan.baidu.com/s/1E4Tbtcg1bUum0j7-WeQGdw) |
+| [公众号蓝蓝考研]电子科技大学考研资料     | [电子科技大学](https://pan.baidu.com/s/1BVec9coux2K4Or6NPW1PRQ) |
+| [公众号蓝蓝考研]东北大学考研资料         | [东北大学](https://pan.baidu.com/s/1EKV4TxeMqEH38ALO8JbR6g)  |
+| [公众号蓝蓝考研]东北林业大学考研资料     | [东北林业大学](https://pan.baidu.com/s/1uQo0_OgtYnTouhrpW79ZFA) |
+| [公众号蓝蓝考研]东北农业大学考研资料     | [东北农业大学](https://pan.baidu.com/s/1gVuOTdhElNCtAabYWJn6RQ) |
+| [公众号蓝蓝考研]东北师范大学考研资料     | [东北师范大学](https://pan.baidu.com/s/1QLLW-gP6BuUC7gjGSSCpVw) |
+| [公众号蓝蓝考研]东华大学考研资料         | [东华大学](https://pan.baidu.com/s/1osclZ9jNRtgsQ53YCIYgYw ) |
+| [公众号蓝蓝考研]东南大学考研资料         | [东南大学](https://pan.baidu.com/s/12yPwHaACb32pQp_yOzjFGw)  |
+| [公众号蓝蓝考研]福州大学考研资料         | [福州大学](https://pan.baidu.com/s/1kCJoywqBpgz68DvbdZlWVA)  |
+| [公众号蓝蓝考研]复旦大学考研资料         | [复旦大学](https://pan.baidu.com/s/1iFkYxlJMZZlv4re9wfzJCg)  |
+| [公众号蓝蓝考研]广东工业大学考研资料     | [广东工业大学](https://pan.baidu.com/s/1p9lYShTPv2PfD1ILW67BrQ) |
+| [公众号蓝蓝考研]广西大学考研资料         | [广西大学](https://pan.baidu.com/s/1zH9bXbD4CvaIIOKlTNFQCA)  |
+| [公众号蓝蓝考研]贵州大学考研资料         | [贵州大学](https://pan.baidu.com/s/1dW5yFoHSsJU6vtrjnRAs4g)  |
+| [公众号蓝蓝考研]哈尔滨工程大学考研资料   | [哈尔滨工程大学](https://pan.baidu.com/s/1knGDDpCxF4alo7vjZ1A6jQ) |
+| [公众号蓝蓝考研]哈尔滨工业大学考研       | [哈尔滨工业大学](https://pan.baidu.com/s/1ofxTG96QpGPqq5-5TcPBeg ) |
+| [公众号蓝蓝考研]海南大学考研资料         | [海南大学](https://pan.baidu.com/s/1szPyupiUlXrnwkO2SGTUyQ)  |
+| [公众号蓝蓝考研]杭州电子科技大学考研资料 | [杭州电子科技大学](https://pan.baidu.com/s/1BNIJnvcjbnHUOprvLxyigw) |
+| [公众号蓝蓝考研]合肥工业大学考研资料     | [合肥工业大学](https://pan.baidu.com/s/1MnK-EnQbgVMLJU2tGbfwdw) |
+| [公众号蓝蓝考研]河北工业大学考研资料     | [河北工业大学](https://pan.baidu.com/s/1yNZKX5UNQ_8WRU6h_HFtGA) |
+| [公众号蓝蓝考研]河海大学考研资料         | [河海大学](https://pan.baidu.com/s/1nk1z_UVGAGHScSzguI8Fog)  |
+| [公众号蓝蓝考研]湖南大学考研资料         | [湖南大学](https://pan.baidu.com/s/1IeT00d7z6rw8_ePNeX4Pag)  |
+| [公众号蓝蓝考研]华北电力大学考研资料     | [华北电力大学](https://pan.baidu.com/s/1Xk0jYADej-jKxI0rIacdSQ) |
+| [公众号蓝蓝考研]华东理工大学考研资料     | [华东理工大学](https://pan.baidu.com/s/1V6SddsP7-L-Ea5lVg6RFHg) |
+| [公众号蓝蓝考研]华东师范大学考研资料     | [华东师范大学](https://pan.baidu.com/s/1jpZ5NZl0COmFTHQ5m87uQw ) |
+| [公众号蓝蓝考研]华南理工大学考研资料     | [华南理工大学](https://pan.baidu.com/s/1FqETR4lW_D62dzYaqk4zNw) |
+| [公众号蓝蓝考研]华北师范大学考研资料     | [华北师范大学](https://pan.baidu.com/s/1X22DV3QKCqaD-FSGAD7I1g) |
+| [公众号蓝蓝考研]华中科技大学考研资料     | [华中科技大学](https://pan.baidu.com/s/1_1MPCdUS2ZxwgOsghhYCPw) |
+| [公众号蓝蓝考研]华中农业大学考研资料     | [华中农业大学](https://pan.baidu.com/s/1f_0EZELmwa0potHJ-DrbhQ) |
+| [公众号蓝蓝考研]华中师范大学考研资料     | [华中师范大学](https://pan.baidu.com/s/1hiEwudQdeQRUydyvJoeBJg) |
+| [公众号蓝蓝考研]吉林大学考研资料         | [吉林大学](https://pan.baidu.com/s/1VnGUnwvSZMekKZ2NjUCBWA ) |
+| [公众号蓝蓝考研]暨南大学考研资料         | [暨南大学](https://pan.baidu.com/s/13YKoai8wO7MhEjvGuQlfhw)  |
+| [公众号蓝蓝考研]江南大学考研资料         | [江南大学](https://pan.baidu.com/s/1io5EmLBgjKVWo21ZDjOJSg)  |
+| [公众号蓝蓝考研]兰州大学考研资料         | [兰州大学](https://pan.baidu.com/s/1JFCr171bolVXaoX0CFs1mQ)  |
+| [公众号蓝蓝考研]辽宁大学考研资料         | [辽宁大学](https://pan.baidu.com/s/1qZH4dZkKx-ArBMDGnjhANw)  |
+| [公众号蓝蓝考研]南京大学考研资料         | [南京大学](https://pan.baidu.com/s/1y8iw7h_-fQDa6yGcnmWYAA)  |
+| [公众号蓝蓝考研]南京航空航天大学考研资料 | [南京航空航天大学](https://pan.baidu.com/s/1S_W1JQPNgwMPUIyMQdUnew) |
+| [公众号蓝蓝考研]南京理工大学考研资料     | [南京理工大学](https://pan.baidu.com/s/1DJWfSoePJZVb75WTdUYtGw) |
+| [公众号蓝蓝考研]南京师范大学考研资料     | [南京师范大学](https://pan.baidu.com/s/1H0Q7dD2qYNjKPp_4CpzViA) |
+| [公众号蓝蓝考研]南京邮电大学考研资料     | [南京邮电大学](https://pan.baidu.com/s/1UMRd2e32xx5WfaCer-S7bw) |
+| [公众号蓝蓝考研]南开大学考研资料         | [南开大学](https://pan.baidu.com/s/1wzYVAkos9EBHWYCvQhvHrA)  |
+| [公众号蓝蓝考研]内蒙古大学考研资料       | [内蒙古大学](https://pan.baidu.com/s/1eA5R0_-snbGxbA9srJ4mag) |
+| [公众号蓝蓝考研]宁夏大学考研资料         | [宁夏大学考研资料](https://pan.baidu.com/s/1B7fxtygrbHLx9iT-eVhsMA) |
+| [公众号蓝蓝考研]清华大学考研资料         | [清华大学](https://pan.baidu.com/s/14ClMuzA150M3wnkmgFXykQ ) |
+| [公众号蓝蓝考研]厦门大学考研资料         | [厦门大学](链接：https://pan.baidu.com/s/1LWtsPVHQC87eFwk2ay6e_A) |
+| [公众号蓝蓝考研]山东大学考研资料         | [山东大学考研资料](https://pan.baidu.com/s/1soubCEa4kYzpzRz-lif8DA) |
+| [公众号蓝蓝考研]陕西师范大学考研资料     | [陕西师范大学](https://pan.baidu.com/s/1GMIE-454jB6Lq7J1-ljkBQ) |
+| [公众号蓝蓝考研]上海财经大学考研资料     | [上海财经大学](https://pan.baidu.com/s/1_acFZA9-Vxw5bDfemJw8Yw) |
+| [公众号蓝蓝考研]上海大学考研资料         | [上海大学](https://pan.baidu.com/s/1iDGukny8jGHnyagQ9zY1DQ)  |
+| [公众号蓝蓝考研]上海科技大学考研资料     | [上海科技大学](https://pan.baidu.com/s/1PoQtTqluL8OmZyRKVPMpKA ) |
+| [公众号蓝蓝考研]上海师范大学考研资料     | [上海师范大学](https://pan.baidu.com/s/1-0OHgax7HnYqPp4CdHpf-Q) |
+| [公众号蓝蓝考研]深圳大学考研资料         | [深圳大学](https://pan.baidu.com/s/1wMfCZlBoazyQ8qH41ZoiUw)  |
+| [公众号蓝蓝考研]石河子大学考研资料       | [石河子大学](https://pan.baidu.com/s/1oVFRiJTtqsTpqi1fjhbVPA) |
+| [公众号蓝蓝考研]四川大学考研资料         | [四川大学](https://pan.baidu.com/s/18k2YVfo4_CUidJgoJ9Q4cA)  |
+| [公众号蓝蓝考研]太原理工大学考研资料     | [太原理工大学](https://pan.baidu.com/s/1tStq4rWVGYQmeAZ4H3OD8A) |
+| [公众号蓝蓝考研]天津大学考研资料         | [天津大学](https://pan.baidu.com/s/19CwLmD9vl574DAaKJxU7OQ)  |
+| [公众号蓝蓝考研]武汉大学考研资料         | [武汉大学考研资料](https://pan.baidu.com/s/1dpZnAI6Gtw2Doafw3hu-iA ) |
+| [公众号蓝蓝考研]武汉科技大学考研资料     | [武汉科技大学](https://pan.baidu.com/s/1xWm-xXcJOVqJXEiwYsjrgA) |
+| [公众号蓝蓝考研]武汉理工大学考研资料     | [武汉理工大学](https://pan.baidu.com/s/1wX_B7770uV0yvHqEqlLHNA) |
+| [公众号蓝蓝考研]西安电子科技大学考研资料 | [西安电子科技大学](https://pan.baidu.com/s/17bSQGpFtjjglnql21LMgQg ) |
+| [公众号蓝蓝考研]西安交通大学考研资料     | [西安交通大学](https://pan.baidu.com/s/13VP6Cqos0niWyMl9FqZyTg) |
+| [公众号蓝蓝考研]西北工业大学考研资料     | [西北工业大学](https://pan.baidu.com/s/1Gs6qSnpgVEwpm_7uaR357g) |
+| [公众号蓝蓝考研]西南财经大学考研资料     | [西南财经大学](https://pan.baidu.com/s/1Dtr4nJnuW2d9ATIvbv3Llg) |
+| [公众号蓝蓝考研]西南交通大学考研资料     | [西南交通大学](https://pan.baidu.com/s/1mBLPoDn9x7wEeELuWqw53Q) |
+| [公众号蓝蓝考研]延边大学考研资料         | [延边大学](https://pan.baidu.com/s/1pJ-lzpVuGHpJwmxNQzyRfA)  |
+| [公众号蓝蓝考研]云南大学考研资料         | [云南大学](https://pan.baidu.com/s/1vAJaN8mr7R-VlcsU4XL3Jw ) |
+| [公众号蓝蓝考研]长安大学考研资料         | [长安大学](https://pan.baidu.com/s/1BCuPqS-Z7DTETuhDpVhlNw)  |
+| [公众号蓝蓝考研]浙江大学考研资料         | [[公众号蓝蓝考研]浙江大学考研资料](https://pan.baidu.com/s/1d1wOGGkrR0YIwoXEdgLJ4A) |
+| [公众号蓝蓝考研]浙江工业大学考研资料     | [浙江工业大学](https://pan.baidu.com/s/19I39FZch5FLC9KV1mkH9pg) |
+| [公众号蓝蓝考研]郑州大学考研资料         | [[公众号蓝蓝考研]郑州大学考研资料](https://pan.baidu.com/s/1lcNEz-8-0gqEd_k70HZ0JA) |
+| [公众号蓝蓝考研]中国传媒大学考研资料     | [中国传媒大学](https://pan.baidu.com/s/1h2u_FPgUB_PqVCHWXE9Vzg ) |
+| [公众号蓝蓝考研]中国地质大学考研资料     | [中国地质大学](https://pan.baidu.com/s/1NOBfpMBfkdePeK0W_5dcJA) |
+| [公众号蓝蓝考研]中国海洋大学考研资料     | [中国海洋大学](https://pan.baidu.com/s/1hPoJj75dpPfHHjGJTq2ADg) |
+| [公众号蓝蓝考研]中国科学技术大学考研资   | [中国科学技术大学考研资](https://pan.baidu.com/s/1qAUIbbG2vC9Rurfzpj1GyA ) |
+| [公众号蓝蓝考研]中国科学院大学考研资料   | [中国科学院大学考研资料](https://pan.baidu.com/s/1JerBmCE8EzC-IJYxDikfrA ) |
+| [公众号蓝蓝考研]中国农业大学考研资料     | [中国农业大学考研资料](https://pan.baidu.com/s/153iDJCbwfMyCn69_-ltsRQ ) |
 | [公众号蓝蓝考研]中国人民大学考研资料     | [中国人民大学考研资料](https://pan.baidu.com/s/1Vlacpotib9_hWS0ida2YsQ ) |
 | [公众号蓝蓝考研]中国石油大学考研资料     | [中国石油大学考研资料](https://pan.baidu.com/s/17y0syUtVbhdVVzMamgtNzg) |
 | [公众号蓝蓝考研]中南财经政法大学考研资料 | [中南财经政法大学考研资料](https://pan.baidu.com/s/1T8Hpjcxq0tbfNh74xPqcrQ) |

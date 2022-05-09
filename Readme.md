@@ -9,12 +9,15 @@
   - [408历年真题无水印清晰版](#408历年真题无水印清晰版)
   - [考研全年PDF无水印版](#考研全年pdf无水印版)
 - [视频合集](#视频合集)
+- [数学笔记](#数学笔记)
+- [英语笔记](#英语笔记)
   - [前言必看](#前言必看)
   - [408各科复习攻略](#408各科复习攻略)
   - [23年全年规划](#23年全年规划)
   - [408重难点](#408重难点)
   - [关于择校](#关于择校)
   - [TIPs](#tips)
+- [自命题真题](#自命题真题)
 - [关于复试](#关于复试)
 - [联系我](#联系我)
 - [排版](#排版)
@@ -64,6 +67,15 @@
 </div>
 
 
+| 书籍           |                                                              |
+| -------------- | ------------------------------------------------------------ |
+| 数据结构       | [大话数据结构](https://pan.baidu.com/s/1Q1PwUXhgvYBmCB_niZbLjw) |
+| 操作系统       | [程序是怎么跑起来的](https://pan.baidu.com/s/17iF3McevOolRAr7MMP61nA) |
+| 计算机组成原理 | [计算机系统基础](https://pan.baidu.com/s/19TctkHJuVzx1J1gAenWhyQ)    [计算机组成与系统结构呢](https://pan.baidu.com/s/1vL5iQi6xFGL7Iv4md19Tjg) |
+| 计算机网络     | [网络是怎么连接的](https://pan.baidu.com/s/1Ca0aiadiaWcGIoN_3NulLw) |
+
+
+
 ## 408视频教程推荐
 
 下面有对应视频的详细说明，部分视频主要针对非科班和高分的同学。
@@ -91,6 +103,16 @@
 ## 视频合集
 
 为了方便大家查看，在这里也放上所有B站视频的分类合集。
+
+
+
+## 数学笔记
+
+
+
+## 英语笔记
+
+[23唐迟方法论笔记|无水印可打印可编辑](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247483999&idx=1&sn=c0c3bf33e3adb3b7edcfe560c0a6af00&chksm=c2e454adf593ddbb7f5b286763327fe8e8fd2d931cbf06a7bf0ca81a4d64e8db06d3f1202a89&token=1875706390&lang=zh_CN#rd)
 
 ### 前言必看
 
@@ -286,7 +308,7 @@
 
 文中采用的排版，参考了 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 
-**### License**
+**## License**
 
 此仓库内容由蓝蓝整理，不是网上东拼西凑而来。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式
 

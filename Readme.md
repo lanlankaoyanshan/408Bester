@@ -109,6 +109,7 @@
 
 ### 数学笔记
 
+[数学公式背诵版合集](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484006&idx=1&sn=aa308e96b1447339af067048345d7bff&chksm=c2e45494f593dd823223fef5275d04f0db6b67ee7f095878976afff45fd2c2785b83cae9f978&token=1875706390&lang=zh_CN#rd)
 
 
 ### 英语笔记

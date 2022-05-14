@@ -116,6 +116,8 @@
 
 [23唐迟方法论笔记|无水印可打印可编辑](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247483999&idx=1&sn=c0c3bf33e3adb3b7edcfe560c0a6af00&chksm=c2e454adf593ddbb7f5b286763327fe8e8fd2d931cbf06a7bf0ca81a4d64e8db06d3f1202a89&token=1875706390&lang=zh_CN#rd)
 
+[唐迟老师美国文化笔记](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484013&idx=1&sn=bf3da03885031a6e6e12f99dd88a21cc&chksm=c2e4549ff593dd89a98f289d4bd515d0495d56f4e521c9cdf51d532de6765c74a57b601cf94e&token=1126826403&lang=zh_CN#rd)
+
 ## 前言必看
 
 - [23考研|考研上岸秘诀之第一步|为什么选择考研](https://www.bilibili.com/video/BV1Ra411b7a5?spm_id_from=333.999.0.0)
@@ -195,7 +197,7 @@
 | ---------------------------------------- | ------------------------------------------------------------ |
 | [公众号蓝蓝考研]安徽大学考研资料         | [安徽大学](https://pan.baidu.com/s/1_SGLj53pnNFxR__O2IrKUA)  |
 | [公众号蓝蓝考研]北京大学考研资料         | [北京大学](https://pan.baidu.com/s/1cXzqBVrIpR3bQUzSGt--Cw)  |
-| [公众号蓝蓝考研]北京工业大学考研资料     | [北京工业大学](https://pan.baidu.com/s/1amJijpy8fZeGqmyxEAzUUg) |
+| [公众号蓝蓝考研]北京工业大学考研资料     | [北京工业大学](https://pan.baidu.com/s/12LvbrkPg3GUI_G3JTSsoFA ) |
 | [公众号蓝蓝考研]北京化工大学考研资料     | [北京化工大学](https://pan.baidu.com/s/1T2Mdq655BVBYAOs56No_6Q) |
 | [公众号蓝蓝考研]北京交通大学考研资料     | [北京交通大学](https://pan.baidu.com/s/1n5SL5E3KToGeBGGPeKIx3Q) |
 | [公众号蓝蓝考研]北京科技大学考研资料     | [北京科技大学](https://pan.baidu.com/s/15rMh2FgaSX7C5eeRYdEU8A) |

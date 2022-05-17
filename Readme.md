@@ -118,6 +118,8 @@
 
 [唐迟老师美国文化笔记](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484013&idx=1&sn=bf3da03885031a6e6e12f99dd88a21cc&chksm=c2e4549ff593dd89a98f289d4bd515d0495d56f4e521c9cdf51d532de6765c74a57b601cf94e&token=1126826403&lang=zh_CN#rd)
 
+[各种单词默写本](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484019&idx=1&sn=de6b87af3cb11eb21c1f3442440da61f&chksm=c2e45481f593dd97146d1a8165522887ded3d68178f56724d438d134dff9926a61e9eafe557f&token=445633754&lang=zh_CN#rd)
+
 ## 前言必看
 
 - [23考研|考研上岸秘诀之第一步|为什么选择考研](https://www.bilibili.com/video/BV1Ra411b7a5?spm_id_from=333.999.0.0)
@@ -155,7 +157,7 @@
 
 - [数据结构的重难点在哪儿？| 保姆级告知](https://www.bilibili.com/video/BV1qY4y1Y7VC?spm_id_from=333.999.0.0)
 - [**待出**操作系统重难点在哪儿？| 保姆级告知]()
-- [**待出**计算机组成原理重难点在哪儿？| 保姆级告知]()
+- [**待出**计算机组成原理重难点在哪儿？| 保姆级告知](https://www.bilibili.com/video/BV1eB4y1y72D?spm_id_from=333.999.0.0)
 - [**待出**计算机网络重难点在哪儿？| 保姆级告知]()
 - [**待出**数据结构结构体定义必备| 保姆级告知]()
 - [**待出**数据结构算法题必备| 保姆级告知]()
@@ -190,6 +192,8 @@
 - [[23计算机考研]考研的同学千万不要熬夜，否则~~~](https://www.bilibili.com/video/BV1E94y1d7t3?spm_id_from=333.999.0.0)
 
 ## 自命题真题
+
+[[23计算机考研]自命题如何准备](https://www.bilibili.com/video/BV1S34y187ND?spm_id_from=333.999.0.0)
 
 这里大家尤其要注意一下，由于部分院校现在已经变化为考察408，所以这部分院校得真题将没有参考价值哈。另外，如果这个目录没有得，也希望大家可以私信我补充，所有百度云链接的密码都是"**lanl**"，如果有不对或不恰当之处麻烦联系我。
 

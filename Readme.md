@@ -166,6 +166,10 @@
 ### 关于择校
 
 - [【23计算机考研择校】这可能是最贴心的择校攻略了](https://www.bilibili.com/video/BV1RB4y1m78B?spm_id_from=333.999.0.0)
+
+- [成都有哪些企业|100企业合集](https://www.bilibili.com/video/BV1MF411L7Gr/?spm_id_from=333.788)
+
+
 - [**待出**[23计算机考研]这些学校只考1门专业课](https://www.bilibili.com/video/BV11T4y1v73S?spm_id_from=333.999.0.0)
 - [**待出**[23计算机考研]这些学校考408]()
 - [**待出**[23计算机考研]这些学校只考数据结构]()

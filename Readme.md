@@ -134,7 +134,7 @@
 - [[23考研] | 非科班计算机考研 | 数据结构125+大揭秘](https://www.bilibili.com/video/BV1F3411s7CJ?spm_id_from=333.999.0.0)
 - [[23计算机考研]非科班计算机考研 | 操作系统125+大揭秘](https://www.bilibili.com/video/BV1ti4y1k7do?spm_id_from=333.999.0.0)
 - [【23计算机考研】计算机组成原理怎么学？ | 408考研 | 保姆级路线安排](https://www.bilibili.com/video/BV1ti4y1m7NH?spm_id_from=333.999.0.0)
-- [计算机网络5月待出]()
+- [【23计算机考研】计算机网络如何复习](https://www.bilibili.com/video/BV1gY4y167bU#reply113915602880)
 
 ### 23年全年规划
 
@@ -166,6 +166,9 @@
 ### 关于择校
 
 - [【23计算机考研择校】这可能是最贴心的择校攻略了](https://www.bilibili.com/video/BV1RB4y1m78B?spm_id_from=333.999.0.0)
+
+- [【23计算机考研择校】计算机考研择校|这一点大家一定要注意！！](https://www.bilibili.com/video/BV1p34y1E7VP?spm_id_from=333.999.0.0)
+
 
 - [成都有哪些企业|100企业合集](https://www.bilibili.com/video/BV1MF411L7Gr/?spm_id_from=333.788)
 

@@ -8,9 +8,11 @@
   - [408视频教程推荐](#408视频教程推荐)
   - [408历年真题无水印清晰版](#408历年真题无水印清晰版)
   - [考研全年PDF无水印版](#考研全年pdf无水印版)
+  - [答题卡](#答题卡)
   - [视频合集](#视频合集)
   - [数学笔记](#数学笔记)
   - [英语笔记](#英语笔记)
+  - [408笔记](#408笔记)
 - [前言必看](#前言必看)
   - [408各科复习攻略](#408各科复习攻略)
   - [23年全年规划](#23年全年规划)
@@ -101,6 +103,11 @@
 </div>
 
 
+### 答题卡
+
+[英语数学政治+408答题卡|可打印](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484033&idx=1&sn=594933978c263bee0ddd8b77c35f598b&chksm=c2e45473f593dd65c40150c5edf6190ad8af1a8cad9abd48d271a7d7099435fac91b5a96e6c7&token=1885031733&lang=zh_CN#rd)
+
+
 ### 视频合集
 
 为了方便大家查看，在这里也放上所有B站视频的分类合集。
@@ -119,6 +126,10 @@
 [唐迟老师美国文化笔记](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484013&idx=1&sn=bf3da03885031a6e6e12f99dd88a21cc&chksm=c2e4549ff593dd89a98f289d4bd515d0495d56f4e521c9cdf51d532de6765c74a57b601cf94e&token=1126826403&lang=zh_CN#rd)
 
 [各种单词默写本](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484019&idx=1&sn=de6b87af3cb11eb21c1f3442440da61f&chksm=c2e45481f593dd97146d1a8165522887ded3d68178f56724d438d134dff9926a61e9eafe557f&token=445633754&lang=zh_CN#rd)
+
+### 408笔记
+
+[网络思维导图原版+协议头格式|可编辑](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484039&idx=1&sn=630d63693ed356923ad594cf107a248d&chksm=c2e45475f593dd638c606a1880bf572192020f1aa50bf8ba459bc61eb755cd7cebdd8596a9fe&token=1885031733&lang=zh_CN#rd)
 
 ## 前言必看
 
@@ -143,6 +154,7 @@
 - [[23计算机考研] 4月份规划及攻略(数学英语及专业课)](https://www.bilibili.com/video/BV1SZ4y1m7h5?spm_id_from=333.999.0.0)
 - [【23计算机考研】拜托三连了之4月答疑 | 计算机上岸必看](https://www.bilibili.com/video/BV1sS4y1A72d?spm_id_from=333.999.0.0)
 - [[23计算机考研] 5月份规划及攻略(数学英语及专业课)](https://www.bilibili.com/video/BV1jF411T7j4?spm_id_from=333.999.0.0)
+- [[23计算机考研] 5月答疑](https://www.bilibili.com/video/BV1Ga411j7g7?spm_id_from=333.999.0.0)
 - [[23计算机考研] 6月份规划及攻略(数学英语及专业课)]()
 - [[**待出**23计算机考研] 7月份规划及攻略(数学英语及专业课)]()
 - [[**待出**23计算机考研] 8月份规划及攻略(数学英语及专业课)]()
@@ -172,6 +184,7 @@
 
 - [成都有哪些企业|100企业合集](https://www.bilibili.com/video/BV1MF411L7Gr/?spm_id_from=333.788)
 
+- [西安有哪些企业|100企业合集](https://www.bilibili.com/video/BV1LF41157bb?spm_id_from=333.999.0.0)
 
 - [**待出**[23计算机考研]这些学校只考1门专业课](https://www.bilibili.com/video/BV11T4y1v73S?spm_id_from=333.999.0.0)
 - [**待出**[23计算机考研]这些学校考408]()

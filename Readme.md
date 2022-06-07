@@ -336,7 +336,7 @@
 
 文中采用的排版，参考了 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 
-**## License**
+## License
 
 此仓库内容由蓝蓝整理，不是网上东拼西凑而来。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式
 

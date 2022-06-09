@@ -1,6 +1,7 @@
 大家好，我是蓝蓝，欢迎来到我的Github。
 - [资料汇总](#资料汇总)
   - [23王道视频更新](#23王道视频更新)
+  - [23王道视频课件整理合集](#23王道视频课件整理合集)
   - [往年王道22年视频](#往年王道22年视频)
   - [王道考研四本PDF](#王道考研四本pdf)
   - [王道22年思维导图](#王道22年思维导图)
@@ -41,6 +42,9 @@
     <img src="https://github.com/lanlankaoyanshan/408Bester/blob/master/408%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg?raw=true" width="300px">
 </div>
 
+### 23王道视频课件整理合集
+
+[23王道数据结构课件合集](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484117&idx=1&sn=8fd52d5f17668d619b390f7f637edf71&chksm=c2e45427f593dd31d13486b18167949b11d6b8deadf5e865f5764088aa665cabe283a5396e5d&token=50111060&lang=zh_CN#rd)
 
 ### 往年王道22年视频
 
@@ -118,6 +122,12 @@
 
 [数学公式背诵版合集](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484006&idx=1&sn=aa308e96b1447339af067048345d7bff&chksm=c2e45494f593dd823223fef5275d04f0db6b67ee7f095878976afff45fd2c2785b83cae9f978&token=1875706390&lang=zh_CN#rd)
 
+[23李永乐线代基础](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484078&idx=1&sn=fbbe162e2e474f8edebd9385719f6fda&chksm=c2e4545cf593dd4acd8504fc94c7afc08eb61b49c470006fc72da0eaf748be71c0ec245c0c75&token=50111060&lang=zh_CN#rd)
+
+[23数学笔记之数列极限](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484103&idx=1&sn=39dccacac037fac4ba63624ab472af6d&chksm=c2e45435f593dd23511bbe38a74f0279a97b54e51a152cc3e0df7a13c6eb462edb3eb0d9d2ea&token=50111060&lang=zh_CN#rd)
+
+[数学一二三考点分布合集](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484110&idx=1&sn=cb3eccb135c65c6b67566523e2b7a306&chksm=c2e4543cf593dd2a61f2ca0971279395a77d6c3a64b56f29ed623db0f4f22a27a79a1f4bb62f&token=50111060&lang=zh_CN#rd)
+
 
 ### 英语笔记
 
@@ -126,6 +136,10 @@
 [唐迟老师美国文化笔记](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484013&idx=1&sn=bf3da03885031a6e6e12f99dd88a21cc&chksm=c2e4549ff593dd89a98f289d4bd515d0495d56f4e521c9cdf51d532de6765c74a57b601cf94e&token=1126826403&lang=zh_CN#rd)
 
 [各种单词默写本](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484019&idx=1&sn=de6b87af3cb11eb21c1f3442440da61f&chksm=c2e45481f593dd97146d1a8165522887ded3d68178f56724d438d134dff9926a61e9eafe557f&token=445633754&lang=zh_CN#rd)
+
+[23田老师语法笔记整理](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484086&idx=1&sn=285c9e672f47e692723579adf546371f&chksm=c2e45444f593dd5296e60eb879d2534fc3543e06dd93a220a5431f9e6ec8ce0370245b67a781&token=50111060&lang=zh_CN#rd)
+
+[英语1+英语2阅读难度对照表](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484067&idx=1&sn=1cfe9a8f4080ec50ed1d40e886becf72&chksm=c2e45451f593dd477f2e89a8f3cc472cfa2487c387b563d74aa874b545c67c8f5f9e4826393c&token=50111060&lang=zh_CN#rd)
 
 ### 408笔记
 
@@ -156,6 +170,7 @@
 - [[23计算机考研] 5月份规划及攻略(数学英语及专业课)](https://www.bilibili.com/video/BV1jF411T7j4?spm_id_from=333.999.0.0)
 - [[23计算机考研] 5月答疑](https://www.bilibili.com/video/BV1Ga411j7g7?spm_id_from=333.999.0.0)
 - [[23计算机考研] 6月份规划及攻略(数学英语及专业课)](https://www.bilibili.com/video/BV1D54y1o75g?spm_id_from=333.999.0.0)
+- [[23计算机考研] 5月进度调查](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484060&idx=1&sn=8ec1ca075e304eacd83d718e2798caa7&chksm=c2e4546ef593dd78ed68e0b385891d84aa3551c114caf76a5d71a500e366407d97e6c756ebff&token=50111060&lang=zh_CN#rd)
 - [[**待出**23计算机考研] 7月份规划及攻略(数学英语及专业课)]()
 - [[**待出**23计算机考研] 8月份规划及攻略(数学英语及专业课)]()
 - [[**待出**23计算机考研] 9月份规划及攻略(数学英语及专业课)]()
@@ -176,6 +191,8 @@
 - [**待出**数据结构大题重点必备| 保姆级告知]()
 
 ### 关于择校
+
+- [【23计算机考研择校】择校利器](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484085&idx=1&sn=d872615d598ae6c0a5d6f680e0fab6f7&chksm=c2e45447f593dd51bfa4562bca7a854e28eb988e8af385bd4e455dd6b1d6eebb9bd89d58307e&token=50111060&lang=zh_CN#rd)
 
 - [【23计算机考研择校】这可能是最贴心的择校攻略了](https://www.bilibili.com/video/BV1RB4y1m78B?spm_id_from=333.999.0.0)
 

@@ -13,6 +13,7 @@
   - [视频合集](#视频合集)
   - [数学笔记](#数学笔记)
   - [英语笔记](#英语笔记)
+  - [政治笔记](#政治笔记)
   - [408笔记](#408笔记)
 - [前言必看](#前言必看)
   - [408各科复习攻略](#408各科复习攻略)
@@ -141,9 +142,17 @@
 
 [英语1+英语2阅读难度对照表](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484067&idx=1&sn=1cfe9a8f4080ec50ed1d40e886becf72&chksm=c2e45451f593dd477f2e89a8f3cc472cfa2487c387b563d74aa874b545c67c8f5f9e4826393c&token=50111060&lang=zh_CN#rd)
 
+
+### 政治笔记
+
+[23政治完整思维导图](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484156&idx=1&sn=db4d2d045d7c0afd6d1be44266148f9b&chksm=c2e4540ef593dd189c65c16fcd7bf20ec27d473967e21ec13b90d2c870914bf52600e83d3af8&token=427943751&lang=zh_CN#rd)
+
 ### 408笔记
 
 [网络思维导图原版+协议头格式|可编辑](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484039&idx=1&sn=630d63693ed356923ad594cf107a248d&chksm=c2e45475f593dd638c606a1880bf572192020f1aa50bf8ba459bc61eb755cd7cebdd8596a9fe&token=1885031733&lang=zh_CN#rd)
+
+
+[22王道数据结构思维导图完整版|无水印可打印](https://mp.weixin.qq.com/s?__biz=Mzk0MDIxMzE0OQ==&mid=2247484134&idx=1&sn=4f013cfa5c58e72b429495720e53e614&chksm=c2e45414f593dd021441c75b7f016a71c86aa06ab52e1f29b9f947a51d560794bc8b78784626&token=427943751&lang=zh_CN#rd)
 
 ## 前言必看
 
@@ -152,6 +161,9 @@
 - [【23考研拜托三连了】B站最全考研科普，看完即懂](https://www.bilibili.com/video/BV1jS4y1U7dN?spm_id_from=333.999.0.0)
 
 - [23非科班计算机考研|全年使用的书籍合集](https://www.bilibili.com/video/BV1YS4y1N7SH?spm_id_from=333.999.0.0)
+
+- [计算机考研618书单](https://www.bilibili.com/video/BV1hF411F77S?spm_id_from=333.999.0.0&vd_source=d57741acfba518681821a3b1cc68f2fd)
+
 
 ### 408各科复习攻略
 
